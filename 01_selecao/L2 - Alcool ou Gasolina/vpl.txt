@@ -1,0 +1,17 @@
+case = 1
+input = 3.37
+2.57
+output = "Gasolina"
+grade reduction = 100%
+
+case = 2
+input = 2.57
+3.37
+output = "Gasolina"
+grade reduction = 100%
+
+case = 3
+input = 3.37
+2.07
+output = "Alcool"
+grade reduction = 100%
