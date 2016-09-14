@@ -1,0 +1,35 @@
+case=Owen vs Julian
+input=Owen Wright
+5
+7.50 9.60 1.43 10.0 10.0
+Julian Wilson
+4
+3.17 4.67 0.5 1.23
+output=Owen Wright
+
+case=Owen vs Flores
+input=Owen Wright
+7
+9.43 3.30 0.43 6.83 1.33 7.5 4.90
+Jeremy Flores
+4
+2.9 8.0 8.57 0.93
+output=Owen Wright
+
+case=Felipinho vs Bede
+input=Filipe Toledo
+10
+4.5 6.17 10.0 0.20 8.33 0.5 8.53 0.37 9.87 0.23
+Bede Durbidge
+12
+5.07 3.33 3.93 0.27 0.77 7.60 0.20 2.33 0.0 6.10 1.77 7.1
+output=Filipe Toledo
+
+case=Felipinho vs Italo
+input=Italo Ferreira
+8
+1.17 0.37 5.17 1.13 0.93 0.37 0.73 0.83
+Filipe Toledo
+5
+8.93 7.00 0.67 0.30 4.33
+output=Filipe Toledo

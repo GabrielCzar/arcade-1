@@ -1,0 +1,13 @@
+jog1 = raw_input()
+jog2 = raw_input()
+
+if(jog1 == jog2):
+    print 'empate'
+elif((jog1 == 'S' and jog2 == 'P') or (jog1 == 'P' and jog2 == 'R') or \
+     (jog1 == 'R' and jog2 == 'L') or (jog1 == 'L' and jog2 == 'K') or  \
+     (jog1 == 'K' and jog2 == 'S') or (jog1 == 'S' and jog2 == 'L') or \
+     (jog1 == 'L' and jog2 == 'P') or (jog1 == 'P' and jog2 == 'K') or \
+     (jog1 == 'K' and jog2 == 'R') or (jog1 == 'R' and jog2 == 'S')):
+    print 'jog1'
+else:
+    print 'jog2'

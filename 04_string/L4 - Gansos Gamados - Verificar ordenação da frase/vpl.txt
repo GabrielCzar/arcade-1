@@ -1,0 +1,29 @@
+case = 0
+input =a ab abc abcd
+output=sim
+grade reduction = 100%
+
+case = 0
+input =a b c d e f
+output=sim
+grade reduction = 100%
+
+case = 0
+input =a b c d a f
+output=nao
+grade reduction = 100%
+
+case = 0
+input =ab a ba
+output=nao
+grade reduction = 100%
+
+case = 0
+input =a amiga da minha vizinha zooume
+output=sim
+grade reduction = 100%
+
+case = 0
+input =arrocha arregao
+output=nao
+grade reduction = 100%

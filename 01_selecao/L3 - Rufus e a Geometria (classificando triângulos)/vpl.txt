@@ -1,0 +1,48 @@
+case = 0
+input =1 
+1 
+5
+output =invalido
+grade reduction = 100%
+
+case = 1
+input =3 
+3 
+5
+output=isosceles
+grade reduction = 100%
+
+case = 2
+input =5 
+5 
+5
+output=equilatero
+grade reduction = 100%
+
+case =3
+input =3 
+4 
+5
+output =escaleno
+grade reduction = 100%
+
+case =4
+input =5 
+4 
+2
+output =escaleno
+grade reduction = 100%
+
+case =5
+input =5
+8 
+2
+output =invalido
+grade reduction = 100%
+
+case =6
+input =5
+8 
+5
+output =isosceles
+grade reduction = 100%

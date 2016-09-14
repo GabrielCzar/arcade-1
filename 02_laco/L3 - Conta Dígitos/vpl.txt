@@ -1,0 +1,34 @@
+case = t1
+input =2
+99102030
+output = 1
+grade reduction = 100%
+case = t2
+input =1
+99123321
+output = 2
+grade reduction = 100%
+
+case = t3
+input =9
+95398900
+output = 3
+grade reduction = 100%
+
+case = t4
+input =1
+99176810
+output = 2
+grade reduction = 100%
+
+case = t5
+input =3
+-432
+output = 1
+grade reduction = 100%
+
+case = t6
+input =4
+44449999
+output = 4
+grade reduction = 100%

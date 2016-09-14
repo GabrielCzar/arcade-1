@@ -1,0 +1,65 @@
+case = 1
+input =R
+S
+output = "jog1"
+grade reduction = 100%
+
+case = 2
+input =R
+L
+output = "jog1"
+grade reduction = 100%
+
+case = 3
+input =R
+K
+output = "jog2"
+grade reduction = 100%
+
+case = 4
+input =R
+P
+output = "jog2"
+grade reduction = 100%
+
+case = 4
+input =P
+K
+output = "jog1"
+grade reduction = 100%
+
+case = 4
+input =K
+L
+output = "jog2"
+grade reduction = 100%
+
+case = 4
+input =R
+R
+output = "empate"
+grade reduction = 100%
+
+case = 4
+input =L
+P
+output = "jog1"
+grade reduction = 100%
+
+case = 4
+input =K
+S
+output = "jog1"
+grade reduction = 100%
+
+case = 4
+input =L
+L
+output = "empate
+grade reduction = 100%
+
+case = 4
+input =S
+R
+output = "jog2"
+grade reduction = 100%

@@ -1,0 +1,30 @@
+case = t1
+input =O
++
+O
++
+B
+-
+output ="SIM"
+grade reduction = 100%
+
+case = t2
+input =B 
+-
+A
++
+O
++
+output ="NAO"
+grade reduction = 100%
+
+
+case = t3
+input =B 
+-
+X
++
+O
++
+output ="SIM"
+grade reduction = 100%

@@ -1,0 +1,71 @@
+case = 1
+input =human
+scissors
+output = "jog2"
+grade reduction = 100%
+
+case = 2
+input =rock
+rock
+output = "empate"
+grade reduction = 100%
+
+case = 3
+input =human
+gun
+output = "jog2"
+grade reduction = 100%
+
+case = 4
+input =rock
+fire
+output = "jog1"
+grade reduction = 100%
+
+case = 4
+input =rock
+human
+output = "jog1"
+grade reduction = 100%
+
+case = 4
+input =rock
+paper
+output = "jog2"
+grade reduction = 100%
+
+case = 4
+input =rock
+water
+output = "jog2"
+grade reduction = 100%
+
+case = 4
+input =air
+human
+output = "jog2"
+grade reduction = 100%
+
+case = 4
+input =fire
+air
+output = "jog2"
+grade reduction = 100%
+
+case = 4
+input =fire
+sponge
+output = "jog1"
+grade reduction = 100%
+
+case = 4
+input =fire
+paper
+output = "jog1"
+grade reduction = 100%
+
+case = 4
+input =rock
+sponge
+output = "jog1"
+grade reduction = 100%

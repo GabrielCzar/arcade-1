@@ -1,0 +1,28 @@
+case=0
+input=2
+1 2
+output=rebeldes
+grade reduction=100%
+case=2
+input=3
+1 2 1
+output=empate
+grade reduction=100%
+
+case=4
+input=2
+2 3
+output=soldados
+grade reduction=100%
+
+case=6
+input=4
+1 2 3 1
+output=soldados
+grade reduction=100%
+
+case=8
+input=4
+1 2 3 1 4
+output=rebeldes
+grade reduction=100%

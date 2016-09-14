@@ -1,0 +1,23 @@
+case=0
+input=1
+a batata
+output=a BaTaTa
+grade reduction=100%
+
+case=1
+input=2
+Morra Prea
+BigODE Aparado
+output=MoRrA pReA
+BiGoDe ApArAdO
+grade reduction=100%
+
+case=2
+input=3
+a Morra Prea
+g BigODE Aparado
+abcd ef
+output=aMoRrA pReA
+BiGoDe ApArAdO
+aBcD ef
+grade reduction=100%

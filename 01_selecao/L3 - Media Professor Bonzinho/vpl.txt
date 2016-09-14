@@ -1,0 +1,48 @@
+case 1 = Media 1
+input =10
+10
+2
+10
+output ="Aprovado com 10.0"
+grade reduction = 100%
+
+case 2 = Media 2
+input =10
+10
+10
+10
+output ="Aprovado com 10.0"
+grade reduction = 100%
+
+case 3 = Media 3
+input = 8
+8
+6.5
+8
+output ="Aprovado com 8.0"
+grade reduction = 100%
+
+case 4 = Media 4
+input =6.5
+7.5
+5
+7.0
+output ="Aprovado com 7.0"
+grade reduction = 100%
+
+case 5 = Media 5
+input =10
+2
+2
+6
+output ="Final com 6.0"
+grade reduction = 100%
+
+
+case 6 = Media 6
+input =2
+10
+2
+6
+output ="Final com 6.0"
+grade reduction = 100%
