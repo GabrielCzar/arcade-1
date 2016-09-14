@@ -31,20 +31,6 @@ As questões estão separadas por nível, normalmente de L1 até L5.
 
 ## Exemplos
 
-<<<<<<< HEAD
-Nos exemplos, o símbolo >> representa a entrada de dados e o símbolo <<
-representa a saída. 
-
-Se nosso desafio é receber dois inteiros, um por linha e imprimir a saída, os
-exemplos serão algo como.
-
-    >>
-    3 4 << 7
-    
----
-    >>
-    1 9 << 10 ---
-=======
 Nos exemplos, o símbolo >> representa a entrada de dados e o símbolo << representa a saída. 
 
 Se nosso desafio é receber dois inteiros, um por linha e imprimir a saída, os exemplos serão algo como.
@@ -61,5 +47,6 @@ Se nosso desafio é receber dois inteiros, um por linha e imprimir a saída, os 
     9 
     <<
     10
+
 ---
->>>>>>> 26c21221c4caa1b0acec6fba7828ae173f52c3aa
+
