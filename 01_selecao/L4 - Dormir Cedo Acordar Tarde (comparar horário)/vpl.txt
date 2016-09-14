@@ -1,0 +1,29 @@
+case = 1
+input =0 0 0
+1 1 1
+output = "1 1 1"
+grade reduction = 100%
+
+case = 2
+input =10 0 0
+11 12 13
+output = "1 12 13"
+grade reduction = 100%
+
+case = 3
+input =04 05 00
+03 05 00
+output = "23 0 0"
+grade reduction = 100%
+
+case = 4
+input =03 15 32
+21 34 07
+output = "18 18 35"
+grade reduction = 100%
+
+case = 5
+input =21 15 32
+6 34 09
+output = "9 18 37"
+grade reduction = 100%

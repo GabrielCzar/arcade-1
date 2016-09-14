@@ -1,0 +1,39 @@
+case 1 = Zero acertos
+input =b
+b
+b
+b
+output ="Nunca assistiu"
+grade reduction = 100%
+
+case 2 = Um acerto
+input =d
+b
+b
+b
+output ="Ja ouviu falar"
+grade reduction = 100%
+
+case 3 = Dois acertos
+input =d
+b
+b
+d
+output ="Interessado no assunto"
+grade reduction = 100%
+
+case 4 = Três acertos
+input =d
+b
+c
+d
+output ="Fa"
+grade reduction = 100%
+
+case 5 = Quatro acertos
+input =d
+a
+c
+d
+output ="Super fa"
+grade reduction = 100%

@@ -1,0 +1,29 @@
+case = t1
+input =120
+output = "R$ 267"
+grade reduction = 100%
+
+case = t2
+input =101
+output = "R$ 172"
+grade reduction = 100%
+
+case = t3
+input =50
+output = "R$ 67"
+grade reduction = 100%
+
+case = t4
+input =0
+output = "R$ 7"
+grade reduction = 100%
+
+case = t5
+input =20
+output = "R$ 17"
+grade reduction = 100%
+
+case = t6
+input =200
+output = "R$ 667"
+grade reduction = 100%

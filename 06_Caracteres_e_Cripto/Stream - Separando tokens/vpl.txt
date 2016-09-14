@@ -1,0 +1,14 @@
+case = 0
+input =aa 4#1 -f; -2.0;
+output ="aa 4
+1 -f
+ -2.0"
+grade reduction=100%
+
+case = 1
+input =coca zero;1.75#8;U;
+output ="coca zero
+1.75
+8
+U"
+grade reduction=100%

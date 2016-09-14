@@ -1,0 +1,34 @@
+case = 1
+input =11
+output =sim
+grade reduction = 100%
+
+case = 2
+input =1
+output =nao
+grade reduction = 100%
+
+case = 3
+input =110
+output =sim
+grade reduction = 100%
+
+case = 4
+input =121
+output =sim
+grade reduction = 100%
+
+case = 5
+input =120
+output =nao
+grade reduction = 100%
+
+case = 6
+input =12100000000
+output =sim
+grade reduction = 100%
+
+case = 7
+input =12109020000
+output =sim
+grade reduction = 100%

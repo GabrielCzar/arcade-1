@@ -1,0 +1,48 @@
+case = 0
+input =a baba
+aa
++
+output=a baba
+grade reduction = 100%
+
+case = 0
+input =o bobe!
+ab
++
+output=o coce!
+grade reduction = 100%
+
+case = 0
+input =o coce!
+ab
+-
+output=o bobe!
+grade reduction = 100%
+
+case = 0
+input =o bobe!
+abc
++
+output=o cqbf!
+grade reduction = 100%
+
+case = 0
+input =batata? sim! Frita!!
+abac
++
+output=bbtctb? skm! Grktb!!
+grade reduction = 100%
+
+case
+quando vi voce eu buguei
+princesa
++
+<<
+fliafs ni kfkr gy tuvlmv
+
+>>
+a data ua bbfrua
+ab
+-
+<<
+a casa ta aberta

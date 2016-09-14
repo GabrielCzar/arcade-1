@@ -1,0 +1,16 @@
+case = t1
+input =1
+10
+output = 30
+grade reduction = 100%
+case = t2
+input =10
+20
+output = 90
+grade reduction = 100%
+
+case = t3
+input =1
+7
+output = 12
+grade reduction = 100%

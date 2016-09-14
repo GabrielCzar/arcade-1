@@ -1,0 +1,41 @@
+case = 1
+input =17
+6
+1996
+output = "SEG"
+grade reduction = 100%
+
+case = 2
+input =17
+07
+1986
+output = "QUI"
+grade reduction = 100%
+
+case = 3
+input =28
+02
+2004
+output = "SAB"
+grade reduction = 100%
+
+case = 4
+input =29
+01
+2004
+output = "QUI"
+grade reduction = 100%
+
+case = 5
+input =30
+10
+1990
+output = "TER"
+grade reduction = 100%
+
+case = 6
+input =31
+10
+1990
+output = "QUA"
+grade reduction = 100%

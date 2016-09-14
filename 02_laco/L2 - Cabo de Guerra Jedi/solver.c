@@ -1,0 +1,36 @@
+#include<stdio.h>
+
+int main(){
+	
+	int n,i;
+
+	scanf("%d", &n);
+
+	int vet[n];
+
+	for(i = 0; i < n; i++){
+		scanf("%d", &vet[i]);
+	}
+
+	int jedi = 0,sith = 0;
+
+	for (i = 0; i < n/2; i++){
+		jedi = jedi + vet[i];
+	}
+
+	for (i = n/2; i < n; i++){
+		sith = sith + vet[i];
+	}
+
+	if(jedi == sith){
+		printf("Empate\n");
+	}
+	else if(sith > jedi){
+		printf("Sith\n");
+	}
+	else
+		printf("Jedi\n");
+
+	return 0;
+
+}

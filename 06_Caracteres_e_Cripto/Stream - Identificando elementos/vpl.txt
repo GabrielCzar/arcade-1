@@ -1,0 +1,19 @@
+case = 0
+input =aa 1 -2.0
+output =str int float
+grade reduction=100%
+
+case = 1
+input =02a -x1 -4.b54 p0
+output =str str str str
+grade reduction=100%
+
+case = 2
+input =-pato -40 -5.4
+output =str int float
+grade reduction=100%
+
+case = 3
+input =02 -1 -4.54 p0
+output =int int float str
+grade reduction=100%

@@ -1,0 +1,30 @@
+case=0
+input=1
+aeb
+output=ae
+grade reduction=100%
+
+case=1
+input=1
+aebeiocdu
+output=eio
+grade reduction=100%
+
+case=2
+input=2
+abdeiuofaoi
+xaeioux
+output=eiuo
+aeiou
+grade reduction=100%
+
+case=3
+input=3
+aebaibaobaub
+baeoxuoiazzzzzzz
+oxau
+output=ae
+baeoxuoiazzzzzzz
+oxau
+
+grade reduction=100%

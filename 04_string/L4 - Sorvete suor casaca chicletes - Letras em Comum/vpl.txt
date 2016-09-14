@@ -1,0 +1,19 @@
+case = 0
+input =sorvete suor casaca chicletes pegasus
+output=1
+grade reduction = 100%
+
+case = 1
+input =minhoca quixe tempero musica roubo output=
+output=0
+grade reduction = 100%
+
+case = 2
+input =acaro cocegas cagado aquecido
+output=3
+grade reduction = 100%
+
+case = 3
+input =aaabbcc bbac bbbaacc ccbddbabda  basdbdc
+output=3
+grade reduction = 100%
