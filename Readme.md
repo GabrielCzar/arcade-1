@@ -1,4 +1,5 @@
-Exercícios de Programação =========================
+Exercícios de Programação 
+=========================
 
 Nestas pastas você vai encontrar uma série de exercícios para praticar sua
 resolução de problemas. Os tópicos abordam diferentes competências de
@@ -16,8 +17,7 @@ for aluno, use com sabedoria. Programar se aprende programando e não olhando
 ## Contribuindo
 
 Dúvidas, sugestões, testes errados ou novas questões me envie um email:
-sena.ufc@gmail.com Melhor ainda, faça um fork e depois um pull request.
-
+sena.ufc@gmail.com. Melhor ainda, faça um fork e depois um pull request.
 
 ## Níveis de Dificuldade
 
@@ -31,6 +31,7 @@ As questões estão separadas por nível, normalmente de L1 até L5.
 
 ## Exemplos
 
+<<<<<<< HEAD
 Nos exemplos, o símbolo >> representa a entrada de dados e o símbolo <<
 representa a saída. 
 
@@ -43,3 +44,22 @@ exemplos serão algo como.
 ---
     >>
     1 9 << 10 ---
+=======
+Nos exemplos, o símbolo >> representa a entrada de dados e o símbolo << representa a saída. 
+
+Se nosso desafio é receber dois inteiros, um por linha e imprimir a saída, os exemplos serão algo como.
+
+    >>
+    3
+    4
+    <<
+    7
+    
+---
+    >>
+    1
+    9 
+    <<
+    10
+---
+>>>>>>> 26c21221c4caa1b0acec6fba7828ae173f52c3aa
